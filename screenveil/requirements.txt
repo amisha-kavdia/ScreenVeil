@@ -1,0 +1,7 @@
+numpy>=1.24
+opencv-python>=4.8
+onnxruntime>=1.18        # on Snapdragon PCs install onnxruntime-qnn for the NPU
+mss>=9.0
+psutil>=5.9
+pillow>=10.0           # demo screen generation
+pytesseract>=0.3.10      # optional: CPU fallback OCR (needs the Tesseract binary)

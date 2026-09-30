@@ -1,0 +1,9 @@
+{
+ "frames": 127,
+ "bands_per_frame": 4,
+ "naive_band_inferences": 508,
+ "screenveil_band_inferences": 57,
+ "without_scroll_tracking": 135,
+ "work_saved_pct": 88.8,
+ "scroll_tracking_saves_pct": 57.8
+}
